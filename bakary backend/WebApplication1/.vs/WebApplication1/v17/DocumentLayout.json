@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\react 2024\\bakary backend\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\migrations\\20250604133515_seedcategoryss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250604133515_seedcategoryss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\migrations\\20250604130653_seedcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250604130653_seedcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\migrations\\20250604120143_addcategoryandrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250604120143_addcategoryandrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\migrations\\20250603165423_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250603165423_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|e:\\react 2024\\bakary backend\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE19AD4E-2C54-4E20-B81B-23D6A2AFF9C0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Models\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProductDTO.cs",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Models\\ProductDTO.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:54:37.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250604133515_SeedCategoryss.cs",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Migrations\\20250604133515_SeedCategoryss.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250604133515_SeedCategoryss.cs",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Migrations\\20250604133515_SeedCategoryss.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250604133515_SeedCategoryss.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:35:16.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAA+wGgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:00:13.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Product.cs",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:33:59.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:47:52.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250604130653_SeedCategory.cs",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Migrations\\20250604130653_SeedCategory.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250604130653_SeedCategory.cs",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Migrations\\20250604130653_SeedCategory.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250604130653_SeedCategory.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:06:54.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAYwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:06:53.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250604120143_AddCategoryAndRelation.cs",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Migrations\\20250604120143_AddCategoryAndRelation.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250604120143_AddCategoryAndRelation.cs",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Migrations\\20250604120143_AddCategoryAndRelation.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250604120143_AddCategoryAndRelation.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:01:44.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250603165423_InitialCreate.cs",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Migrations\\20250603165423_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250603165423_InitialCreate.cs",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Migrations\\20250603165423_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250603165423_InitialCreate.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:54:23.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:45:07.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Category.cs",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Models\\Category.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:56:52.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:51:51.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "E:\\react 2024\\bakary backend\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T16:44:43.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
